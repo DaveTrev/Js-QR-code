@@ -1,0 +1,1 @@
+live link - https://davetrev.github.io/Js-QR-code/
